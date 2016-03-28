@@ -18,3 +18,4 @@ Gem::Specification.new do |spec|
   spec.version      = ngram::VERSION
   spec.authors      = ['Prabhat Kumar', 'Emma Jörenberg']
   spec.email        = ['prabhat.genome@gmail.com']
+  spec.homepage     = 'http://prabhatkumar.org/'
