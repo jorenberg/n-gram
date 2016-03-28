@@ -10,3 +10,7 @@
 # ==========================================
 ($LOAD_PATH << File.expand_path("../lib", __FILE__)).uniq!
 require "ngram/version"
+
+# The Specification class contains the information for a Gem.
+Gem::Specification.new do |spec|
+  spec.name         = 'n-gram'
