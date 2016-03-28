@@ -20,3 +20,4 @@ Gem::Specification.new do |spec|
   spec.email        = ['prabhat.genome@gmail.com']
   spec.homepage     = 'http://prabhatkumar.org/'
   spec.license      = "Apache"
+  spec.description  = spec.summary + ' See: https://github.com/iamprabhat/n-gram/wiki'
