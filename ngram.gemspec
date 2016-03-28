@@ -17,3 +17,4 @@ Gem::Specification.new do |spec|
   spec.summary      = "n-gram -> NLP (Natural Language Processing) toolkit in Ruby."
   spec.version      = ngram::VERSION
   spec.authors      = ['Prabhat Kumar', 'Emma Jörenberg']
+  spec.email        = ['prabhat.genome@gmail.com']
