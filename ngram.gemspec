@@ -19,3 +19,4 @@ Gem::Specification.new do |spec|
   spec.authors      = ['Prabhat Kumar', 'Emma Jörenberg']
   spec.email        = ['prabhat.genome@gmail.com']
   spec.homepage     = 'http://prabhatkumar.org/'
+  spec.license      = "Apache"
