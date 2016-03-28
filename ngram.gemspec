@@ -14,3 +14,4 @@ require "ngram/version"
 # The Specification class contains the information for a Gem.
 Gem::Specification.new do |spec|
   spec.name         = 'n-gram'
+  spec.summary      = "n-gram -> NLP (Natural Language Processing) toolkit in Ruby."
