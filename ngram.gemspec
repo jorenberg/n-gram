@@ -25,3 +25,5 @@ Gem::Specification.new do |spec|
   spec.metadata     = {
     "issue_tracker" => "https://github.com/iamprabhat/n-gram/issues"
   }
+  # This gem will work with 1.8.6 or greater...
+  spec.required_ruby_version = '>= 1.8.6'
