@@ -29,3 +29,4 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = '>= 1.8.6'
   spec.post_install_message  = "Thanks for installing!"
   spec.add_development_dependency('rspec', '~>2.14.1')
+end
