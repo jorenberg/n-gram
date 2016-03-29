@@ -22,3 +22,6 @@ Gem::Specification.new do |spec|
   spec.license      = "Apache"
   spec.description  = spec.summary + ' See: https://github.com/iamprabhat/n-gram/wiki'
   spec.files        = %w(README.md) + Dir.glob('{bin,lib,spec}/**/*')
+  spec.metadata     = {
+    "issue_tracker" => "https://github.com/iamprabhat/n-gram/issues"
+  }
