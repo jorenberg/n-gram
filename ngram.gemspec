@@ -27,3 +27,4 @@ Gem::Specification.new do |spec|
   }
   # This gem will work with 1.8.6 or greater...
   spec.required_ruby_version = '>= 1.8.6'
+  spec.post_install_message  = "Thanks for installing!"
