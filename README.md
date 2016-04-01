@@ -8,3 +8,8 @@ An ```n-gram``` of size 1 is referred to as a ```"unigram"```; size 2 is a ```"b
 
 ## Requirements
 ```Ruby``` : v1.8.6 or higher.
+
+## Installing
+Simply install the [gem](https://rubygems.org/):
+
+```$ gem install n-gram```
