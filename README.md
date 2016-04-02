@@ -13,3 +13,7 @@ An ```n-gram``` of size 1 is referred to as a ```"unigram"```; size 2 is a ```"b
 Simply install the [gem](https://rubygems.org/):
 
 ```$ gem install n-gram```
+
+## Usage
+### n-grams
+<b><i>n</i>-gram®</b>, provide a simple class to generate n-grams from an input string, either per word, per character, or on some custom splitter.
