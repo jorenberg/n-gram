@@ -17,3 +17,7 @@ Simply install the [gem](https://rubygems.org/):
 ## Usage
 ### n-grams
 <b><i>n</i>-gram®</b>, provide a simple class to generate n-grams from an input string, either per word, per character, or on some custom splitter.
+
+```ruby
+require 'ngram'
+```
